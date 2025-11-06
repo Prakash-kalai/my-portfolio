@@ -29,7 +29,7 @@ const Education = () => {
           >            
             <div className="w-20 h-20 flex-shrink-0 mr-4">
               <img
-                src="public/5204ecd6-8127-442f-8f57-31f91ca59a29.jpg"
+                src="5204ecd6-8127-442f-8f57-31f91ca59a29.jpg"
                 alt="Prakash K"
                 className="w-full h-full rounded-full border-2 border-gray-600 object-cover border-dashed p-2"
               />

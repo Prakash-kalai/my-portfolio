@@ -9,7 +9,7 @@ const About = () => {
         {/* ✅ Image Section */}
         <div className="w-full md:w-1/3 flex justify-center">
           <img
-            src="/portrait-young-handsome-man-jacket-holding-laptop_171337-19839.avif"
+            src="5204ecd6-8127-442f-8f57-31f91ca59a29.jpg"
             alt="Prakash K"
             className="w-48 h-48 md:w-60 md:h-60 rounded-full border-2 border-gray-600 object-cover border-dashed p-2"
           />
