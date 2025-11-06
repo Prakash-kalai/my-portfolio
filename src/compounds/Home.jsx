@@ -10,7 +10,7 @@ export default function Home() {
 
         <div className="w-[25%] h-[70%] bg-white shadow-lg text-gray-800 flex flex-col items-center p-6 rounded-2xl">
           <img
-            src="public/5204ecd6-8127-442f-8f57-31f91ca59a29.jpg"
+            src="5204ecd6-8127-442f-8f57-31f91ca59a29.jpg"
             alt="Prakash K"
             className="w-32 h-32 rounded-full border-2 border-gray-600 object-cover border-dashed p-2"
           />
