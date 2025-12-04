@@ -25,7 +25,7 @@ export default function Project() {
   
 
   return (
-    <Element name="project" className="relative w-full min-h-screen bg-black text-white px-6 py-16 overflow-hidden">
+    <Element name="projects" className="relative w-full min-h-screen bg-black text-white px-6 py-16 overflow-hidden">
 
       {/* GLOW BACKGROUND SHAPES */}
       <div className="absolute w-[500px] h-[500px] bg-blue-600 blur-[180px] opacity-30 top-0 left-0"></div>
